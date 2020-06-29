@@ -14,5 +14,13 @@ img {
 
 a {
   padding: 10px;
-  background: ;
+  background: #808080;
+}
+p #featured-property {
+  max-width: 800px;
+  text-align: center;
+}
+
+#details {
+  display
 }
